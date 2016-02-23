@@ -8,7 +8,6 @@ import configparser
 import ipaddress
 import logging
 import logging.handlers
-# https://github.com/betavr/pygodaddy/commit/7443f7b1657d36f5e0a55e6abb84ee8cd32fd6fc is the working version of pygodaddy 2/22/16
 import pygodaddy
 import requests
 import sys

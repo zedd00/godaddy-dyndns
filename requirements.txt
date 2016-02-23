@@ -1,2 +1,12 @@
-requests
-pygodaddy
+configparser==3.3.0.post2
+idna==2.0
+ipaddress==1.0.16
+logging==0.4.9.6
+pif==0.7.3
+PIL==1.1.7
+psutil==3.2.1
+git+https://github.com/betavr/pygodaddy#egg=pygodaddy
+requests==2.9.1
+tldextract==1.7.5
+wheel==0.29.0
+
